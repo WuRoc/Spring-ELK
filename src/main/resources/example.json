@@ -1,0 +1,35 @@
+[
+  {
+    "image": "🥑",
+    "quantity": "4 🥑",
+    "price": "6.50",
+    "description": "A ripe avocado yields to gentle pressure when held in the palm and squeezed. ",
+    "from": "Spain",
+    "id": 0,
+    "productName": "Fresh Avocados",
+    "organic": true,
+    "nutrients": "Vitamin B, Vitamin K"
+  },
+  {
+    "image": "🧀",
+    "quantity": "250g",
+    "price": "5.00",
+    "description": "Creamy and distinct in flavor, goat cheese is a dairy product enjoyed around the world.",
+    "from": "Portugal",
+    "id": 1,
+    "productName": "Cheese",
+    "organic": false,
+    "nutrients": "Vitamin A, Calcium"
+  },
+  {
+    "image": "🥦",
+    "quantity": "3 🥦",
+    "price": "5.50",
+    "description": "Broccoli is known to be a hearty and tasty vegetable which is rich in dozens of nutrients.",
+    "from": "Portugal",
+    "id": 2,
+    "productName": "Broccoli",
+    "organic": true,
+    "nutrients": "Vitamin C, Vitamin K"
+  }
+]
