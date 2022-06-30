@@ -38,7 +38,7 @@ public class ELKController {
 
     @GetMapping(value = "/Food-Details")
     public JSONArray foodDetails() {
-        log.info("Inside Food Detail Function");
+        log.info("at Inside Food Detail Function");
         return service.getAllFoodDetails();
     }
 
